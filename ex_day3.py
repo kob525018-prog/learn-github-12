@@ -34,3 +34,6 @@ print(dat.isalpha())
 
 number1 = "21334523452"
 print(number1.isnumeric())
+
+number2 = 3545656367
+print(number2.isnumeric())
